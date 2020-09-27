@@ -1,5 +1,4 @@
 <html>
-<h3>Convolutional neural network for stock price prediction using transfer learning</h3>
 This repository contains the python code for the research paper "Convolutional neural network for stock price prediction using transfer learning", which is based on the WorldQuant University capstone project by the author.
 
 <br>
