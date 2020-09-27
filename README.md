@@ -1,6 +1,6 @@
 <html>
 <h3> About</h3>
-This repository contains the python code for the research paper "Convolutional neural network for stock price prediction using transfer learning".
+This repository contains the python code for the research paper "Convolutional neural network for stock price prediction using transfer learning". Since the paper has now been submitted to SSRN for review, the python code will be opened only after it is accepted.
 
 <br>
 <br>
